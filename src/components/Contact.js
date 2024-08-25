@@ -148,6 +148,7 @@ const Contact = () => {
           </div>
         </div>
         <div className="line-seperator"></div>
+        <div className="contact-breaker">Or</div>
         <div className="contact-container-two">
             <h2 style={{display:"flex",alignItems:"center",columnGap:"4px"}}><MdOutlineContactPhone/>Contact Details</h2>
             <div className="contact-card">
@@ -158,6 +159,9 @@ const Contact = () => {
             </div>
             {/* <h3><CiLocationOn/> Plot No.75/77, Shri Laxmi Sahakari Aoudyogik Vasahat Ltd., Hatkanangale, Kolhapur-416109, Maharashtra, India</h3> */}
         </div>
+        </div>
+        <div className="line-container">
+        <div className="line"></div>
         </div>
         <div className="media-heading">Follow us on</div>
         <div className="socialhandles-container">
